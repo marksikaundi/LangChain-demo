@@ -3,6 +3,7 @@ __pycache__/
 
 # Ignore virtual environment
 myenv/
+.env
 
 # Ignore local development settings
 settings_local.py
